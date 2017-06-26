@@ -15,9 +15,13 @@ else if (Player>player)
 {
   return 'Player2 wins'
 }
+ else if (player==Player){
+  return " no one wins.. EQUALITY!"
+}
+
   
   
   
   
 }
-PFC ('ciseaux','pierre')
+
